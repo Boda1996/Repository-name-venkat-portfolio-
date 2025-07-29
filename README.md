@@ -1,4 +1,4 @@
-# Repository-name-venkat-portfolio-
+# venkat-portfolio
 
 # 📈 Predictive Modeling: Sales Forecasting using Linear Regression
 
